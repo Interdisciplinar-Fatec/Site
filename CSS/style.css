@@ -406,7 +406,7 @@ h3 {
 /* Newsletter */
 .newsletter {
   background-color: var(--verde); 
-  background-image: url(../IMG/banner1.png);
+  background-image: url(IMG/banner1.png);
 }
 .newsletter .box-newsletter {
   text-align: center;
